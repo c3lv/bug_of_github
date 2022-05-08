@@ -16,3 +16,9 @@ https://github.com/Mikulas/fake-author-attack
 
 I like linus, I don't want to trouble him.
 
+---------------------------------------------------------
+All in all,
+there is still a problem remained, my commit email is default "root@vultr.guest"
+(I use a vps, which is more fast), but Github say it's HarukaMa, his email is "haruka@tsundere.moe".
+
+Why Github say 'root@vultr.guest' is HarukaMa?
