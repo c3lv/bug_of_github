@@ -22,3 +22,7 @@ there is still a problem remained, my commit email is default "root@vultr.guest"
 (I use a vps, which is more fast), but Github say it's HarukaMa, his email is "haruka@tsundere.moe".
 
 Why Github say 'root@vultr.guest' is HarukaMa?
+https://github.com/Coxxs/git-username-test/issues/1
+
+Oh, he must add 'root@vultr.guest' to his accout mail list.
+Note that, event you don't need validate your email, the commit include this email will also be linked to you.
