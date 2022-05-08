@@ -6,3 +6,10 @@ Yes, it is still exist.
 Let's try some ohter names
 
 3, Will linus can help me? He is my god ;)
+
+# Fake author attack
+Yes, this is super easy.Just change your mail address, and Github will
+give you the wrong information, and the wrong link.
+
+Also check here:
+https://github.com/Mikulas/fake-author-attack
